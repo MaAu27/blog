@@ -1,6 +1,13 @@
 body
 {
-color: darkblue;
+color: rgb(0, 0, 0);
 text-align: right;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: darkslateblue;
 }
